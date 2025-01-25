@@ -1,0 +1,28 @@
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.exe
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.deps.json
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.runtimeconfig.json
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.dll
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.pdb
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.AssemblyInfoInputs.cache
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.AssemblyInfo.cs
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.csproj.CoreCompileInputs.cache
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.dll
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\refint\Pythagoras und Rechteckfläche.dll
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.pdb
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.genruntimeconfig.cache
+C:\Users\Puhazhan Indrakumar\OneDrive - Benedict BVS Schule (ZH, LU, SG, BE)\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\ref\Pythagoras und Rechteckfläche.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.exe
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.deps.json
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.runtimeconfig.json
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\bin\Debug\net8.0\Pythagoras und Rechteckfläche.pdb
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.AssemblyInfoInputs.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.AssemblyInfo.cs
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.csproj.CoreCompileInputs.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\refint\Pythagoras und Rechteckfläche.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.pdb
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\Pythagoras und Rechteckfläche.genruntimeconfig.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\Modul 319\Pythagoras und Rechteckfläche\Pythagoras und Rechteckfläche\obj\Debug\net8.0\ref\Pythagoras und Rechteckfläche.dll
